@@ -15,41 +15,29 @@ This project addresses these challenges by analyzing hospital patient data and v
 
 🛠️ Methodology
 
-1.Data Cleaning & Preprocessing (Python)
+Data Cleaning & Preprocessing (Python)
+- Date formatting and validation
+- Handling missing and inconsistent values
+- Feature preparation such as age groups and stay categories
 
-Date formatting and validation
+Data Analysis (SQL)
+- Aggregation of patient counts and treatment costs
+- Year-wise and category-wise analysis
 
-Handling missing and inconsistent values
+Visualization & Reporting (Power BI)
+- KPI cards for total patients, total treatment cost, and average length of stay
+- Interactive slicers for age group and admission year
+- Charts for trend analysis, cost distribution, and patient segmentation
 
-Feature preparation such as age group and stay category
-
-2.Data Analysis (SQL)
-
-Aggregation of patient counts and costs
-
-Year-wise and category-wise analysis
-
-3.Visualization & Reporting (Power BI)
-
-KPI cards for total patients, total treatment cost, and average length of stay
-
-Interactive slicers for age group and admission year
-
-Charts for trend analysis, cost distribution, and patient segmentation
 
 🧰 Skills & Tools Used
+- Python (Pandas, NumPy)
+- SQL
+- Power BI
+- Data Cleaning & Validation
+- Exploratory Data Analysis (EDA)
+- Dashboard Design & Storytelling
 
-Python (Pandas, NumPy)
-
-SQL
-
-Power BI
-
-Data Cleaning & Validation
-
-Exploratory Data Analysis (EDA)
-
-Dashboard Design & Storytelling
 
 📊 Key Insights / Results
 
