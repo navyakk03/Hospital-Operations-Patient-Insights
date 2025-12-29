@@ -18,6 +18,7 @@ This project addresses these challenges by analyzing hospital patient data and v
      Date formatting and validation
      Handling missing and inconsistent values
      Feature preparation such as age group and stay category
+   
 2.Data Analysis (SQL)
      Aggregation of patient counts and costs
      Year-wise and category-wise analysis
