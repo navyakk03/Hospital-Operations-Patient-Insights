@@ -14,72 +14,46 @@ This project addresses these challenges by analyzing hospital patient data and v
 
 🛠️ Methodology
 
-Data Cleaning & Preprocessing (Python)
-
-Date formatting and validation
-
-Handling missing and inconsistent values
-
-Feature preparation such as age group and stay category
-
-Data Analysis (SQL)
-
-Aggregation of patient counts and costs
-
-Year-wise and category-wise analysis
-
-Visualization & Reporting (Power BI)
-
-KPI cards for total patients, total treatment cost, and average length of stay
-
-Interactive slicers for age group and admission year
-
-Charts for trend analysis, cost distribution, and patient segmentation
+1. Data Cleaning & Preprocessing (Python)
+     Date formatting and validation
+     Handling missing and inconsistent values
+     Feature preparation such as age group and stay category
+2.Data Analysis (SQL)
+     Aggregation of patient counts and costs
+     Year-wise and category-wise analysis
+3.Visualization & Reporting (Power BI)
+     KPI cards for total patients, total treatment cost, and average length of stay
+     Interactive slicers for age group and admission year
+     Charts for trend analysis, cost distribution, and patient segmentation
 
 🧰 Skills & Tools Used
 
 Python (Pandas, NumPy)
-
 SQL
-
 Power BI
-
 Data Cleaning & Validation
-
 Exploratory Data Analysis (EDA)
-
 Dashboard Design & Storytelling
 
 📊 Key Insights / Results
 
 The dashboard shows 984 total patients with an overall treatment cost of ~8M
-
 Long-stay patients contribute the highest share of total treatment cost
-
 Elderly patients have a higher average length of stay compared to adults
-
 Patient admissions vary across years, with a noticeable decline in recent years
-
 Gender-wise distribution of patients is nearly balanced
-
 Average length of stay (~37.66 days) is a critical metric influencing overall cost
 
 ✅ Recommendations
 
 Closely monitor long-stay patients to control extended hospitalization costs
-
 Improve discharge planning, especially for elderly patients
-
 Track length of stay as a KPI to support operational and capacity planning
-
 Use year-wise trends to anticipate patient volume changes
 
 🔮 Next Steps
 
 Add department-wise or treatment-type analysis
-
 Include doctor-wise or ward-level insights
-
 Automate data refresh for real-time reporting
-
 Enhance the dashboard with additional operational KPIs
