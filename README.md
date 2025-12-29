@@ -15,8 +15,11 @@ This project addresses these challenges by analyzing hospital patient data and v
 🛠️ Methodology
 
 1. Data Cleaning & Preprocessing (Python)
+   
      Date formatting and validation
+   
      Handling missing and inconsistent values
+   
      Feature preparation such as age group and stay category
    
 2.Data Analysis (SQL)
