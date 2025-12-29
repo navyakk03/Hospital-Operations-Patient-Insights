@@ -12,28 +12,30 @@ This project presents an end-to-end data analysis of hospital operations focused
 Healthcare organizations require clear visibility into patient flow, length of stay, and cost distribution to improve operational efficiency and resource planning. Without consolidated insights, identifying high-cost drivers and patient stay patterns becomes challenging.
 This project addresses these challenges by analyzing hospital patient data and visualizing key operational indicators through an interactive dashboard.
 
+
 🛠️ Methodology
 
-1. Data Cleaning & Preprocessing (Python)
-   
-     Date formatting and validation
-   
-     Handling missing and inconsistent values
-   
-     Feature preparation such as age group and stay category
-   
-2. Data Analysis (SQL)
-   
-     Aggregation of patient counts and costs
-   
-     Year-wise and category-wise analysis
-   
- 3.Visualization & Reporting (Power BI)
-     
-   KPI cards for total patients, total treatment cost, and average length of stay
-   Interactive slicers for age group and admission year
-     
-   Charts for trend analysis, cost distribution, and patient segmentation
+1.Data Cleaning & Preprocessing (Python)
+
+Date formatting and validation
+
+Handling missing and inconsistent values
+
+Feature preparation such as age group and stay category
+
+2.Data Analysis (SQL)
+
+Aggregation of patient counts and costs
+
+Year-wise and category-wise analysis
+
+3.Visualization & Reporting (Power BI)
+
+KPI cards for total patients, total treatment cost, and average length of stay
+
+Interactive slicers for age group and admission year
+
+Charts for trend analysis, cost distribution, and patient segmentation
 
 🧰 Skills & Tools Used
 
